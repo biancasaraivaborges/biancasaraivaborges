@@ -23,7 +23,6 @@ Nos últimos anos eu tenho trabalhado como QA e tester funcional. Parte do meu t
 </table>
 </p>
 
-
 ### Estou aprendendo na Alura 
 
 - [Carreira QA: processos e automação de testes](https://cursos.alura.com.br/formacao-carreira-tester-qa)
@@ -34,12 +33,23 @@ Nos últimos anos eu tenho trabalhado como QA e tester funcional. Parte do meu t
 - [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/course/fundamentos-agilidade](https://cursos.alura.com.br/course/quality-assurance-plano-testes-gestao-bugs)https://cursos.alura.com.br/course/quality-assurance-plano-testes-gestao-bugs)
 - [JavaScript e HTML: desenvolva um jogo e pratique lógica de programação](https://cursos.alura.com.br/course/fundamentos-agilidade](https://cursos.alura.com.br/course/logica-programacao-javascript-html)https://cursos.alura.com.br/course/logica-programacao-javascript-html)
 
+
 ##
-### Contatos:
- <div>
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/biancasaraiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
- </div>
+### Let´s get connected:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancasaraiva/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ascomidinhasdabi/)
  
 ## 
+
+### Technologies & Tools I use:
+
+<div>
+<img align="center" alt="Bianca-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />    
+<img align="center" alt="Bianca-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="center" alt="Bianca-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="center" alt="Bianca-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+<img align="center" alt="Bianca-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+          
+          
+</div>
