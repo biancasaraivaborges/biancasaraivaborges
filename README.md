@@ -1,48 +1,42 @@
-# Olá  👋 
+<h1> About me </h1> 
 
-Eu sou a Bianca 👩🏻‍🔬👩🏻‍💻⚒️ 
+ 
+Hi, my name is Bianca 👩🏻‍🔬👩🏻‍💻⚒️ 
 
-## Seja bem-vindo(a) ao meu perfil do GitHub
+I am a versatile professional with a focus on Quality Assurance, Manual Testing, Customer Service, and Project Management. Currently, I'm proactively delving into Agile methodology, collaborating with cross-functional teams to contribute to successful project lifecycles. 
 
-<p align="right">
-<table width="100%">
-<tr><td valign="top" width="50%">
+About me:
+
+- 👩🏻‍🎓 B.Sc. in Geology (UFRJ - 2017)
+- 👩🏻‍💼 Passionate about sustainability and entrepreneurship; I had my own business selling second-hand clothing/accessories (2018 - 2019)
+- ✈️ Living in Portugal since 2019
+- 🎓 Master's degree in Mining and Geo-Environmental Engineering from FEUP (2021)
+- 👩🏻‍🍳 Beyond my technical roles, I am a content creator with an Instagram ([@ascomidinhasdabi](https://www.instagram.com/ascomidinhasdabi/)) and TikTok ([@ascomidinhasdabi](https://www.tiktok.com/@ascomidinhasdabi/)) page 
+- 📘 Always seeking new knowledge - currently studying Digital Marketing, C#: object-oriented programming, JavaScript, and HTML: programming logic, React and Cypress.
+
+
+<h2> Courses </h2>
+
+#### Learning at Alura
+
+- [QA Career: Testing Processes and Automation](https://cursos.alura.com.br/formacao-carreira-tester-qa)
+- [React: Developing with JavaScript](https://cursos.alura.com.br/course/react-desenvolvendo-javascript)
   
-Sobre mim:
-- 👩🏻‍🎓 Geóloga por formação (UFRJ - 2017)
-- 👩🏻‍💼 Apaixonada por sustentabilidade e empreendedorismo, já tive meu próprio negócio de venda de roupa/acessórios de segunda mão (2018 - 2019)
-- ✈️Vivo em Portugal desde 2019
-- 🎓Tenho mestrado em Engenharia de Minas e Geo-Ambiente pela FEUP (2021)
-- 👩🏻‍🍳Adoro me aventurar na cozinha nas horas vagas (@ascomidinhasdabi)
-- 📘 Sempre em busca de novos conhecimentos - atualmente estudando sobre Marketing Digital, C#:orientação a objetos, JavaScript e HTML: lógica da programação.
+#### Completed at Alura
+- [Agility: Promoting Agile Transformation](https://cursos.alura.com.br/course/fundamentos-agilidade)
+- [C#: Exploring the Language](https://cursos.alura.com.br/course/fundamentos-agilidade](https://cursos.alura.com.br/course/csharp-iniciando-linguagem)https://cursos.alura.com.br/course/csharp-iniciando-linguagem)
+- [Quality Assurance: Test Plan and Bug Management](https://cursos.alura.com.br/course/fundamentos-agilidade](https://cursos.alura.com.br/course/quality-assurance-plano-testes-gestao-bugs)https://cursos.alura.com.br/course/quality-assurance-plano-testes-gestao-bugs)
+- [JavaScript and HTML: Develop a Game and Practice Programming Logic](https://cursos.alura.com.br/course/fundamentos-agilidade](https://cursos.alura.com.br/course/logica-programacao-javascript-html)https://cursos.alura.com.br/course/logica-programacao-javascript-html)
 
 
-Nos últimos anos eu tenho trabalhado como QA e tester funcional. Parte do meu trabalho é gerenciar a equipe de qualidade e suporte ao cliente, buscando sempre melhorar as práticas de qualidade dos produtos e garantir a satisfação dos clientes. Tenho trabalhado com metodogia Agile e trabalho diariamente com as equipes Dev, UX/UI e Vendas. 
-
-</td></tr>
-</table>
-</p>
-
-### Estou aprendendo na Alura 
-
-- [Carreira QA: processos e automação de testes](https://cursos.alura.com.br/formacao-carreira-tester-qa)
-  
-#### Cursos realizados na Alura 
-- [Agilidade: promovendo a transformação ágil](https://cursos.alura.com.br/course/fundamentos-agilidade)
-- [C#: explorando a linguagem](https://cursos.alura.com.br/course/fundamentos-agilidade](https://cursos.alura.com.br/course/csharp-iniciando-linguagem)https://cursos.alura.com.br/course/csharp-iniciando-linguagem)
-- [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/course/fundamentos-agilidade](https://cursos.alura.com.br/course/quality-assurance-plano-testes-gestao-bugs)https://cursos.alura.com.br/course/quality-assurance-plano-testes-gestao-bugs)
-- [JavaScript e HTML: desenvolva um jogo e pratique lógica de programação](https://cursos.alura.com.br/course/fundamentos-agilidade](https://cursos.alura.com.br/course/logica-programacao-javascript-html)https://cursos.alura.com.br/course/logica-programacao-javascript-html)
-
-
-##
-### Let´s get connected:
+<h2> Let´s get connected:<h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancasaraiva/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ascomidinhasdabi/)
  
-## 
 
-### Technologies & Tools I use:
+
+<h2> Technologies & Tools I use:<h2>
 
 <div>
 <img align="center" alt="Bianca-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />    
