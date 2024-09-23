@@ -23,6 +23,7 @@ About me:
 - [React: Developing with JavaScript](https://cursos.alura.com.br/course/react-desenvolvendo-javascript)
   
 #### Completed at Alura
+- [Business Agility](https://cursos.alura.com.br/formacao-business-agility)
 - [Agility: Promoting Agile Transformation](https://cursos.alura.com.br/course/fundamentos-agilidade)
 - [C#: Exploring the Language](https://cursos.alura.com.br/course/fundamentos-agilidade](https://cursos.alura.com.br/course/csharp-iniciando-linguagem)https://cursos.alura.com.br/course/csharp-iniciando-linguagem)
 - [Quality Assurance: Test Plan and Bug Management](https://cursos.alura.com.br/course/fundamentos-agilidade](https://cursos.alura.com.br/course/quality-assurance-plano-testes-gestao-bugs)https://cursos.alura.com.br/course/quality-assurance-plano-testes-gestao-bugs)
