@@ -20,7 +20,7 @@ About me:
 #### Learning at Alura
 
 - [QA Career: Testing Processes and Automation](https://cursos.alura.com.br/formacao-carreira-tester-qa)
-- [React: Developing with JavaScript](https://cursos.alura.com.br/course/react-desenvolvendo-javascript)
+
   
 #### Completed at Alura
 - [Business Agility](https://cursos.alura.com.br/formacao-business-agility)
